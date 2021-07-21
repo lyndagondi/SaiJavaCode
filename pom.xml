@@ -206,7 +206,6 @@
     </dependencies>
   </dependencyManagement>
          
-         <build>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
@@ -229,8 +228,6 @@
         </executions>
       </plugin>
     </plugins>
-  </build>
-
   <scm>
     <connection>scm:git:git@github.com:jleetutorial/maven-project.git</connection>
     <developerConnection>scm:git:git@github.com:jleetutorial/maven-project.git</developerConnection>
